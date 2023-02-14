@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kipchojo
 - 👀 I’m interested in ... DevNet
-- 🌱 I’m currently learning ... Java/Python
-- 💞️ I’m looking to collaborate on ...Networking Engineers 
+- 🌱 I’m currently learning ... Python/Networking
+- 💞️ I’m looking to collaborate on ...Networking Engineers
 - 📫 How to reach me ... You can't, not yet anyway
 
 <!---
